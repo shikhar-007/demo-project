@@ -7,9 +7,9 @@ After launching your server, make sure to update all the packages by running the
 
 ```bash
 sudo apt update
-
-2. Install Docker and Docker Compose
+```
+## 2. Install Docker and Docker Compose
 To install Docker and Docker Compose, follow the official installation guide:
-
+``` bash 
 Docker: Install Docker
 Docker Compose: Install Docker Compose
